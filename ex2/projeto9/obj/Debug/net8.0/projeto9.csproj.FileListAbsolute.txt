@@ -1,0 +1,14 @@
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\bin\Debug\net8.0\projeto9.exe
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\bin\Debug\net8.0\projeto9.deps.json
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\bin\Debug\net8.0\projeto9.runtimeconfig.json
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\bin\Debug\net8.0\projeto9.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\bin\Debug\net8.0\projeto9.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\projeto9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\projeto9.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\projeto9.AssemblyInfo.cs
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\projeto9.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\projeto9.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\refint\projeto9.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\projeto9.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\projeto9.genruntimeconfig.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto9\obj\Debug\net8.0\ref\projeto9.dll

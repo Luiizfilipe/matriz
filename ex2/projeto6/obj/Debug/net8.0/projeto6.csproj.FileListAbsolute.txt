@@ -1,0 +1,14 @@
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\bin\Debug\net8.0\projeto6.exe
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\bin\Debug\net8.0\projeto6.deps.json
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\bin\Debug\net8.0\projeto6.runtimeconfig.json
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\bin\Debug\net8.0\projeto6.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\bin\Debug\net8.0\projeto6.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\projeto6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\projeto6.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\projeto6.AssemblyInfo.cs
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\projeto6.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\projeto6.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\refint\projeto6.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\projeto6.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\projeto6.genruntimeconfig.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto6\obj\Debug\net8.0\ref\projeto6.dll

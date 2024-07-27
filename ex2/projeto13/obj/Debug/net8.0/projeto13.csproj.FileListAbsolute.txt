@@ -1,0 +1,14 @@
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\bin\Debug\net8.0\projeto13.exe
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\bin\Debug\net8.0\projeto13.deps.json
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\bin\Debug\net8.0\projeto13.runtimeconfig.json
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\bin\Debug\net8.0\projeto13.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\bin\Debug\net8.0\projeto13.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\projeto13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\projeto13.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\projeto13.AssemblyInfo.cs
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\projeto13.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\projeto13.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\refint\projeto13.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\projeto13.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\projeto13.genruntimeconfig.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto13\obj\Debug\net8.0\ref\projeto13.dll

@@ -1,0 +1,14 @@
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\bin\Debug\net8.0\projeto4.exe
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\bin\Debug\net8.0\projeto4.deps.json
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\bin\Debug\net8.0\projeto4.runtimeconfig.json
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\bin\Debug\net8.0\projeto4.dll
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\bin\Debug\net8.0\projeto4.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\projeto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\projeto4.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\projeto4.AssemblyInfo.cs
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\projeto4.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\projeto4.dll
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\refint\projeto4.dll
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\projeto4.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\projeto4.genruntimeconfig.cache
+C:\Users\LuizFelipe\Documents\Dotnet\Notas\obj\Debug\net8.0\ref\projeto4.dll

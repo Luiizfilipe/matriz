@@ -1,0 +1,14 @@
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\bin\Debug\net8.0\projero5.exe
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\bin\Debug\net8.0\projero5.deps.json
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\bin\Debug\net8.0\projero5.runtimeconfig.json
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\bin\Debug\net8.0\projero5.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\bin\Debug\net8.0\projero5.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\projero5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\projero5.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\projero5.AssemblyInfo.cs
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\projero5.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\projero5.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\refint\projero5.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\projero5.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\projero5.genruntimeconfig.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projero5\obj\Debug\net8.0\ref\projero5.dll

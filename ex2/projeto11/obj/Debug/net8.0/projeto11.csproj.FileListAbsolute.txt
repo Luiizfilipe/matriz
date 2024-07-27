@@ -1,0 +1,14 @@
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\bin\Debug\net8.0\projeto11.exe
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\bin\Debug\net8.0\projeto11.deps.json
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\bin\Debug\net8.0\projeto11.runtimeconfig.json
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\bin\Debug\net8.0\projeto11.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\bin\Debug\net8.0\projeto11.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\projeto11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\projeto11.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\projeto11.AssemblyInfo.cs
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\projeto11.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\projeto11.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\refint\projeto11.dll
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\projeto11.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\projeto11.genruntimeconfig.cache
+C:\Users\LuizFelipe\Documents\Dotnet\projeto11\obj\Debug\net8.0\ref\projeto11.dll

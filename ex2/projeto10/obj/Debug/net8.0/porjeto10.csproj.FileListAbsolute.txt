@@ -1,0 +1,14 @@
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\bin\Debug\net8.0\porjeto10.exe
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\bin\Debug\net8.0\porjeto10.deps.json
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\bin\Debug\net8.0\porjeto10.runtimeconfig.json
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\bin\Debug\net8.0\porjeto10.dll
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\bin\Debug\net8.0\porjeto10.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\porjeto10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\porjeto10.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\porjeto10.AssemblyInfo.cs
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\porjeto10.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\porjeto10.dll
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\refint\porjeto10.dll
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\porjeto10.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\porjeto10.genruntimeconfig.cache
+C:\Users\LuizFelipe\Documents\Dotnet\porjeto10\obj\Debug\net8.0\ref\porjeto10.dll
