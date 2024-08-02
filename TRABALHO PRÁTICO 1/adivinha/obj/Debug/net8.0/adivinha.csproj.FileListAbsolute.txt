@@ -1,0 +1,15 @@
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\bin\Debug\net8.0\adivinha.exe
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\bin\Debug\net8.0\adivinha.deps.json
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\bin\Debug\net8.0\adivinha.runtimeconfig.json
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\bin\Debug\net8.0\adivinha.dll
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\bin\Debug\net8.0\adivinha.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\adivinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\adivinha.AssemblyInfoInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\adivinha.AssemblyInfo.cs
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\adivinha.csproj.CoreCompileInputs.cache
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\adivinha.sourcelink.json
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\adivinha.dll
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\refint\adivinha.dll
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\adivinha.pdb
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\adivinha.genruntimeconfig.cache
+C:\Users\LuizFelipe\Documents\Dotnet\TRABALHO PRÁTICO 1\adivinha\obj\Debug\net8.0\ref\adivinha.dll
